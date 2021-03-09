@@ -6,7 +6,7 @@
 ##### [Practica de limpieza de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/EJ_Limpieza_Equipo8.ipynb)
 ##### [Primer avance PIA](https://github.com/TennetA0/Mineria_FCFM/blob/main/Avance1_PIA_Equipo8.ipynb)
 
-##Fase II
+## Fase II
 ##### [Presentación de tecnicas]()
 ##### [Ejemplo de presentacion de tecnicas]()
 ##### [Mini examen de tecnicas]()
