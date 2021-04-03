@@ -8,5 +8,6 @@
 
 ## Fase II
 ##### [Presentación de técnicas](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Presentaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
-##### [Ejemplo de presentación de técnicas](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Ejercicio_Series-de-Tiempo_Equipo-8.R)
-##### [Mini examen de técnicas](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Calificaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
+- ##### [Ejemplo de presentación de técnicas](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Ejercicio_Series-de-Tiempo_Equipo-8.R)
+- ##### [Mini examen de técnicas](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Calificaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
+##### [Mapa Mental 2](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/MapaMental_2_1806170.pdf)
