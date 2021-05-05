@@ -16,5 +16,5 @@
 - ##### [Segundo avance PIA Versión 2](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/AvancePIA_II_Grupo3_8_Versi%C3%B3n2.ipynb)
 
 ## Fase III
-##### [PIA](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/CR1.jpg.jpeg)
-- #### [Imagen] 
+##### [PIA](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Inversi%C3%B3n%20a%20futuro.pdf)
+- #### [Imagen](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/CR1.jpg.jpeg)
